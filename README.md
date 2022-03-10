@@ -1,2 +1,0 @@
-# joegaspari.github.io
- website
