@@ -2,19 +2,26 @@
   font-family: "Lust-Display";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Lust Slim Display Didone.ttf") format("truetype");
+  src: url("Lust Slim Display Didone.ttf") format("truetype");
 }
 @font-face {
   font-family: "LustScript-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Lust Script.ttf") format("truetype");
+  src: url("Lust Script.ttf") format("truetype");
 }
 @font-face {
   font-family: "Novecentosans-Book";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Novecento Book.otf") format("opentype");
+  src: url("Novecento Book.otf") format("opentype");
+}
+
+@font-face { 
+  font-family: "rig-solid-bold-halftone", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  src: url("https://use.typekit.net/cva4upr.css");
 }
 
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
