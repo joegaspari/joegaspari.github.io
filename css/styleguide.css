@@ -21,8 +21,6 @@
   --font-family-lust-display: "Lust-Display", Helvetica;
   --font-family-lustscript-regular: "LustScript-Regular", Helvetica;
   --font-family-novecentosans-book: "Novecentosans-Book", Helvetica;
-  --font-family-rigsolid-boldhalftone: "RigSolid-BoldHalftone", Helvetica;
-  --font-family-rigsolid-boldreverse: "RigSolid-BoldReverse", Helvetica;
 }
 .novecentosans-book-normal-white-15px {
   color: var(--white);
@@ -56,12 +54,12 @@
   font-weight: 400;
 }
 
-.rigsolid-boldreverse-bold-cherub-59px {
+.lust-display-normal-cherub-59px {
   color: var(--cherub);
-  font-family: var(--font-family-rigsolid-boldreverse);
+  font-family: var(--font-family-lust-display);
   font-size: 59px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .lust-display-normal-wheat-171px {
@@ -120,12 +118,20 @@
   font-weight: 400;
 }
 
-.rigsolid-boldhalftone-bold-white-58px {
+.novecentosans-book-normal-jaguar-15px {
+  color: var(--jaguar);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-58px {
   color: var(--white);
-  font-family: var(--font-family-rigsolid-boldhalftone);
+  font-family: var(--font-family-lust-display);
   font-size: 58px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .lust-display-normal-white-51px {
@@ -144,10 +150,18 @@
   font-weight: 400;
 }
 
-.novecentosans-book-normal-jaguar-15px {
-  color: var(--jaguar);
-  font-family: var(--font-family-novecentosans-book);
-  font-size: var(--font-size-m);
+.lust-display-normal-white-85px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: 85px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-wheat-33px {
+  color: var(--wheat);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 33px;
   font-style: normal;
   font-weight: 400;
 }
@@ -200,6 +214,14 @@
   font-weight: 400;
 }
 
+.lust-display-normal-white-54px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .lust-display-normal-link-water-200px {
   color: var(--link-water);
   font-family: var(--font-family-lust-display);
@@ -232,18 +254,10 @@
   font-weight: 400;
 }
 
-.lust-display-normal-white-85px {
-  color: var(--white);
-  font-family: var(--font-family-lust-display);
-  font-size: 85px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.lustscript-regular-normal-wheat-33px {
-  color: var(--wheat);
+.lustscript-regular-normal-pearl-lusta-162px {
+  color: var(--pearl-lusta);
   font-family: var(--font-family-lustscript-regular);
-  font-size: 33px;
+  font-size: 162px;
   font-style: normal;
   font-weight: 400;
 }
