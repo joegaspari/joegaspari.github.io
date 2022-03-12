@@ -1,0 +1,300 @@
+:root { 
+  --black: #000000;
+  --cherub: #f4d1ea;
+  --jaguar: #07040b;
+  --link-water: #daeaf6;
+  --loblolly: #bccbd9;
+  --pearl-lusta: #fcf4dd;
+  --piggy-pink: #fce1e4;
+  --prim: #e8dff5;
+  --swans-down: #ddedea;
+  --wheat: #f7dfb6;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 15px;
+  --font-size-xl: 26px;
+  --font-size-xxl: 35px;
+  --font-size-xxxl: 43px;
+  --font-size-xxxxl: 50px;
+  --font-size-xxxxxl: 51px;
+ 
+  --font-family-lust-display: "Lust-Display", Helvetica;
+  --font-family-lustscript-regular: "LustScript-Regular", Helvetica;
+  --font-family-novecentosans-book: "Novecentosans-Book", Helvetica;
+}
+.novecentosans-book-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.novecentosans-book-normal-piggy-pink-35px {
+  color: var(--piggy-pink);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.novecentosans-book-normal-jaguar-20px {
+  color: var(--jaguar);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-cherub-59px {
+  color: var(--cherub);
+  font-family: var(--font-family-lust-display);
+  font-size: 59px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.novecentosans-book-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-wheat-171px {
+  color: var(--wheat);
+  font-family: var(--font-family-lust-display);
+  font-size: 171px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.novecentosans-book-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-piggy-pink-266px {
+  color: var(--piggy-pink);
+  font-family: var(--font-family-lust-display);
+  font-size: 266px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-link-water-133px {
+  color: var(--link-water);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 133px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-white-133px {
+  color: var(--white);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 133px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-wheat-179px {
+  color: var(--wheat);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 179px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.novecentosans-book-normal-white-43px {
+  color: var(--white);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.novecentosans-book-normal-jaguar-15px {
+  color: var(--jaguar);
+  font-family: var(--font-family-novecentosans-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-58px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-51px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-wheat-205px {
+  color: var(--wheat);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 205px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-85px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: 85px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-wheat-33px {
+  color: var(--wheat);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-141px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: 141px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-wheat-45px {
+  color: var(--wheat);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-piggy-pink-168px {
+  color: var(--piggy-pink);
+  font-family: var(--font-family-lust-display);
+  font-size: 168px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-piggy-pink-341px {
+  color: var(--piggy-pink);
+  font-family: var(--font-family-lust-display);
+  font-size: 341px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-loblolly-466px {
+  color: var(--loblolly);
+  font-family: var(--font-family-lust-display);
+  font-size: 466px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-pearl-lusta-249px {
+  color: var(--pearl-lusta);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 249px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-white-54px {
+  color: var(--white);
+  font-family: var(--font-family-lust-display);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-link-water-200px {
+  color: var(--link-water);
+  font-family: var(--font-family-lust-display);
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-prim-132px {
+  color: var(--prim);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 132px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-swans-down-186px {
+  color: var(--swans-down);
+  font-family: var(--font-family-lust-display);
+  font-size: 186px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lust-display-normal-wheat-119px {
+  color: var(--wheat);
+  font-family: var(--font-family-lust-display);
+  font-size: 119px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lustscript-regular-normal-pearl-lusta-162px {
+  color: var(--pearl-lusta);
+  font-family: var(--font-family-lustscript-regular);
+  font-size: 162px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-4px-pearl-lusta {
+  border: 4px solid var(--pearl-lusta);
+}
+
+.border-4px-prim {
+  border: 4px solid var(--prim);
+}
+
+.border-25px-link-water {
+  border: 25px solid var(--link-water);
+}
+
+.border-4px-wheat {
+  border: 4px solid var(--wheat);
+}
+
+.border-3px-prim {
+  border: 3px solid var(--prim);
+}
+
+.border-25px-swans-down {
+  border: 25px solid var(--swans-down);
+}
+
+.border-4px-piggy-pink {
+  border: 4px solid var(--piggy-pink);
+}
