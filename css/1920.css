@@ -2198,12 +2198,12 @@ transform: translate(0,0);
 .x1000 .iam-joe-GE0zG6 {
   background-color: transparent;
   display: block;
-  height: 872px;
-  left: 101px;
+  height: 973px;
+  left: 127px;
   opacity: 0;
   position: absolute;
   top: 434px;
-  width: calc(100.00% - 101px);
+  width: calc(100.00% - 127px);
 }
 
 .x1000 .iam-joe-GE0zG6.bp4-animate-enter29 {
@@ -2287,7 +2287,7 @@ to{opacity: 1;
   opacity: 0;
   position: absolute;
   right: 108px;
-  top: calc(40.45% - 118px);
+  top: calc(34.46% - 100px);
   transform: translate(25px, 0);
   width: 416px;
 }
@@ -2342,14 +2342,14 @@ transform: translate(0,0);
 
 .x1000 .component-8-1-tsuQDO {
   background-color: transparent;
-  bottom: calc(23.60% - 117px);
+  bottom: calc(39.81% - 198px);
   display: block;
   height: 497px;
-  left: 26px;
+  left: 0px;
   opacity: 0;
   position: absolute;
   transform: translate(25px, 0);
-  width: calc(100.00% - 248px);
+  width: calc(100.00% - 222px);
 }
 
 .x1000 .component-8-1-tsuQDO.bp4-animate-enter28 {
@@ -2405,7 +2405,7 @@ transform: translate(0,0);
 }
 }
 
-.x1000 .i-am-a-biochemisti-a-tsuQDO {
+.x1000 .i-am-a-biochemista-d-tsuQDO {
   background-color: transparent;
   bottom: -20px;
   cursor: pointer;
@@ -2418,10 +2418,10 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 401px;
+  width: 442px;
 }
 
-.x1000 .i-am-a-biochemisti-a-tsuQDO:hover {
+.x1000 .i-am-a-biochemista-d-tsuQDO:hover {
   transform: scale(1.1);
 }
 
@@ -5672,7 +5672,7 @@ transform: translate(0,0);
 }
 }
 
-.x1300 .i-am-a-biochemisti-a-yBVhi5 {
+.x1300 .i-am-a-biochemista-d-yBVhi5 {
   background-color: transparent;
   cursor: pointer;
   height: 210px;
@@ -5685,10 +5685,10 @@ transform: translate(0,0);
   top: 964px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 401px;
+  width: 442px;
 }
 
-.x1300 .i-am-a-biochemisti-a-yBVhi5:hover {
+.x1300 .i-am-a-biochemista-d-yBVhi5:hover {
   transform: scale(1.1);
 }
 
@@ -8891,7 +8891,7 @@ transform: translate(0,0);
 }
 }
 
-.x1700 .i-am-a-biochemisti-a-xCbI2o {
+.x1700 .i-am-a-biochemista-d-xCbI2o {
   background-color: transparent;
   cursor: pointer;
   height: 210px;
@@ -8904,10 +8904,10 @@ transform: translate(0,0);
   top: 958px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 401px;
+  width: 442px;
 }
 
-.x1700 .i-am-a-biochemisti-a-xCbI2o:hover {
+.x1700 .i-am-a-biochemista-d-xCbI2o:hover {
   transform: scale(1.1);
 }
 
@@ -12450,7 +12450,7 @@ transform: translate(0,0);
 }
 }
 
-.x1920 .i-am-a-biochemisti-a-S15x6e {
+.x1920 .i-am-a-biochemista-d-S15x6e {
   background-color: transparent;
   cursor: pointer;
   height: 210px;
@@ -12463,10 +12463,10 @@ transform: translate(0,0);
   top: 958px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 401px;
+  width: 442px;
 }
 
-.x1920 .i-am-a-biochemisti-a-S15x6e:hover {
+.x1920 .i-am-a-biochemista-d-S15x6e:hover {
   transform: scale(1.1);
 }
 
@@ -15396,7 +15396,7 @@ transform: translate(0,0);
   opacity: 0;
   position: absolute;
   top: 584px;
-  width: calc(100.00% - 22px);
+  width: calc(100.00% - 12px);
 }
 
 .x320 .iam-joe-6lzJea.bp1-animate-enter29 {
@@ -15418,7 +15418,7 @@ to{opacity: 1;
   height: 256px;
   opacity: 0;
   position: absolute;
-  right: 16px;
+  right: 26px;
   top: 0px;
   transform: translate(-25px, 0);
   width: 282px;
@@ -15479,7 +15479,7 @@ to{opacity: 1;
   height: 136px;
   opacity: 0;
   position: absolute;
-  right: 0px;
+  right: 9px;
   top: calc(30.56% - 42px);
   transform: translate(25px, 0);
   width: 195px;
@@ -15547,7 +15547,7 @@ transform: translate(0,0);
   position: absolute;
   top: calc(43.02% - 80px);
   transform: translate(25px, 0);
-  width: calc(100.00% - 54px);
+  width: calc(100.00% - 64px);
 }
 
 .x320 .component-8-1-drx2KV.bp1-animate-enter28 {
@@ -15603,7 +15603,7 @@ transform: translate(0,0);
 }
 }
 
-.x320 .i-am-a-biochemisti-a-drx2KV {
+.x320 .i-am-a-biochemista-d-drx2KV {
   background-color: transparent;
   bottom: -14px;
   color: var(--white);
@@ -15621,10 +15621,10 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 243px;
+  width: 268px;
 }
 
-.x320 .i-am-a-biochemisti-a-drx2KV:hover {
+.x320 .i-am-a-biochemista-d-drx2KV:hover {
   transform: scale(1.1);
 }
 
@@ -18827,7 +18827,7 @@ transform: translate(0,0);
 }
 }
 
-.x400 .i-am-a-biochemisti-a-wcAjYZ {
+.x400 .i-am-a-biochemista-d-wcAjYZ {
   background-color: transparent;
   bottom: -14px;
   color: var(--white);
@@ -18845,10 +18845,10 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 243px;
+  width: 268px;
 }
 
-.x400 .i-am-a-biochemisti-a-wcAjYZ:hover {
+.x400 .i-am-a-biochemista-d-wcAjYZ:hover {
   transform: scale(1.1);
 }
 
@@ -21907,7 +21907,7 @@ transform: translate(0,0);
 }
 }
 
-.x700 .i-am-a-biochemisti-a-BFGG8W {
+.x700 .i-am-a-biochemista-d-BFGG8W {
   background-color: transparent;
   bottom: -3px;
   cursor: pointer;
@@ -21920,10 +21920,10 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 401px;
+  width: 442px;
 }
 
-.x700 .i-am-a-biochemisti-a-BFGG8W:hover {
+.x700 .i-am-a-biochemista-d-BFGG8W:hover {
   transform: scale(1.1);
 }
 
