@@ -1338,20 +1338,31 @@ transform: translate(0,0);
 
 .x1000 .stack-over-f-GE0zG6 {
   background-color: transparent;
-  bottom: calc(49.43% - 174px);
-  height: 351px;
-  left: 31px;
+  bottom: calc(49.49% - 167px);
+  height: 337px;
+  left: 96px;
   position: absolute;
-  width: calc(100.00% - 127px);
+  width: calc(100.00% - 191px);
 }
 
 .x1000 .dashboard_example-4IFztF {
   background-color: transparent;
-  height: 75.49%;
-  left: 0px;
+  height: 78.62%;
+  left: 5.40%;
+  overflow: hidden;
   position: absolute;
-  top: 24.51%;
-  width: 72.50%;
+  top: 21.38%;
+  width: 78.26%;
+}
+
+.x1000 .dashboard_example-4IFztF video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x1000 .dashboard_example-4IFztF img {
+  object-fit: cover;
 }
 
 .x1000 .path-53-Zz5tjp {
@@ -1364,40 +1375,10 @@ transform: translate(0,0);
   width: 633px;
 }
 
-.x1000 .mask-group-6-Zz5tjp {
-  background-color: transparent;
-  height: 230px;
-  left: 23px;
-  overflow: hidden;
-  position: absolute;
-  top: 18px;
-  width: 588px;
-}
-
-.x1000 .mask-group-6-Zz5tjp video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x1000 .mask-group-6-Zz5tjp img {
-  object-fit: cover;
-}
-
-.x1000 .stack-example-Gvwev2 {
-  background-color: transparent;
-  height: 331px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: -51px;
-  width: 588px;
-}
-
 .x1000 .stack-over-flow-4IFztF {
   background-color: transparent;
   height: 49px;
-  left: 93px;
+  left: 29px;
   letter-spacing: -1.65px;
   line-height: 33px;
   position: absolute;
@@ -1418,7 +1399,7 @@ transform: translate(0,0);
   font-style: normal;
   font-weight: 400;
   height: 81px;
-  left: 64px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 57px;
   opacity: 0;
@@ -2418,7 +2399,7 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 442px;
+  width: 432px;
 }
 
 .x1000 .i-am-a-biochemista-d-tsuQDO:hover {
@@ -4631,9 +4612,20 @@ transform: translate(0,0);
   background-color: transparent;
   height: 76.00%;
   left: 0.35%;
+  overflow: hidden;
   position: absolute;
   top: 24.00%;
   width: 86.30%;
+}
+
+.x1300 .dashboard_example-FzFAIS video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x1300 .dashboard_example-FzFAIS img {
+  object-fit: cover;
 }
 
 .x1300 .path-53-Lxb9vG {
@@ -4644,36 +4636,6 @@ transform: translate(0,0);
   position: absolute;
   top: 0px;
   width: 931px;
-}
-
-.x1300 .mask-group-6-Lxb9vG {
-  background-color: transparent;
-  height: 346px;
-  left: 33px;
-  overflow: hidden;
-  position: absolute;
-  top: 23px;
-  width: 866px;
-}
-
-.x1300 .mask-group-6-Lxb9vG video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x1300 .mask-group-6-Lxb9vG img {
-  object-fit: cover;
-}
-
-.x1300 .stack-example-1HlOTh {
-  background-color: transparent;
-  height: 487px;
-  left: -0px;
-  object-fit: cover;
-  position: absolute;
-  top: -71px;
-  width: 866px;
 }
 
 .x1300 .stack-over-flow-FzFAIS {
@@ -5685,7 +5647,7 @@ transform: translate(0,0);
   top: 964px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 442px;
+  width: 432px;
 }
 
 .x1300 .i-am-a-biochemista-d-yBVhi5:hover {
@@ -7810,79 +7772,37 @@ transform: translate(0,0);
   height: 760px;
   left: 180px;
   position: absolute;
-  width: calc(100.00% - 360px);
+  width: calc(100.00% - 368px);
 }
 
 .x1700 .dashboard_example-cFpdmr {
   background-color: transparent;
   height: 78.29%;
-  left: 0.33%;
+  left: 1.43%;
+  overflow: hidden;
   position: absolute;
   top: 21.71%;
-  width: 99.67%;
+  width: 98.57%;
+}
+
+.x1700 .dashboard_example-cFpdmr video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x1700 .dashboard_example-cFpdmr img {
+  object-fit: cover;
 }
 
 .x1700 .rectangle-21-g53fxH {
   background-color: var(--white);
-  border: 40px solid var(--piggy-pink);
-  border-radius: 51px;
+  border-radius: 69px;
   height: 595px;
   left: 0px;
-  position: absolute;
+  position: relative;
   top: 0px;
   width: 1312px;
-}
-
-.x1700 .rectangle-19-g53fxH {
-  background-color: transparent;
-  border: 50px solid var(--link-water);
-  border-radius: 51px;
-  height: 534px;
-  left: 24px;
-  overflow: hidden;
-  position: absolute;
-  top: 32px;
-  width: 1312px;
-}
-
-.x1700 .rectangle-19-g53fxH video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x1700 .rectangle-19-g53fxH img {
-  object-fit: cover;
-}
-
-.x1700 .mask-group-6-g53fxH {
-  background-color: transparent;
-  height: 485px;
-  left: 47px;
-  overflow: hidden;
-  position: absolute;
-  top: 58px;
-  width: 1265px;
-}
-
-.x1700 .mask-group-6-g53fxH video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x1700 .mask-group-6-g53fxH img {
-  object-fit: cover;
-}
-
-.x1700 .stack-example-Br4qhc {
-  background-color: transparent;
-  height: 712px;
-  left: -0px;
-  object-fit: cover;
-  position: absolute;
-  top: -108px;
-  width: 1265px;
 }
 
 .x1700 .stack-over-flow-cFpdmr {
@@ -8904,7 +8824,7 @@ transform: translate(0,0);
   top: 958px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 442px;
+  width: 432px;
 }
 
 .x1700 .i-am-a-biochemista-d-xCbI2o:hover {
@@ -11037,83 +10957,41 @@ transform: translate(0,0);
 
 .x1920 .stack-over-f-3YiSwQ {
   background-color: transparent;
-  bottom: calc(48.04% - 400px);
-  height: 833px;
+  bottom: calc(48.26% - 377px);
+  height: 781px;
   left: 233px;
   position: absolute;
-  width: calc(100.00% - 368px);
+  width: calc(100.00% - 396px);
 }
 
 .x1920 .dashboard_example-IcSf21 {
   background-color: transparent;
-  height: 78.51%;
-  left: 0px;
+  height: 77.08%;
+  left: 1.12%;
+  overflow: hidden;
   position: absolute;
-  top: 21.49%;
+  top: 22.92%;
+  width: 98.88%;
+}
+
+.x1920 .dashboard_example-IcSf21 video {
+  height: 100%;
+  object-fit: cover;
   width: 100%;
+}
+
+.x1920 .dashboard_example-IcSf21 img {
+  object-fit: cover;
 }
 
 .x1920 .rectangle-21-87UENy {
   background-color: var(--white);
-  border: 40px solid var(--piggy-pink);
-  border-radius: 51px;
-  height: 611px;
+  border-radius: 69px;
+  height: 602px;
   left: 0px;
-  position: absolute;
+  position: relative;
   top: 0px;
-  width: 1532px;
-}
-
-.x1920 .rectangle-19-87UENy {
-  background-color: transparent;
-  border: 50px solid var(--link-water);
-  border-radius: 51px;
-  height: 611px;
-  left: 20px;
-  overflow: hidden;
-  position: absolute;
-  top: 43px;
-  width: 1532px;
-}
-
-.x1920 .rectangle-19-87UENy video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x1920 .rectangle-19-87UENy img {
-  object-fit: cover;
-}
-
-.x1920 .mask-group-6-87UENy {
-  background-color: transparent;
-  height: 584px;
-  left: 40px;
-  overflow: hidden;
-  position: absolute;
-  top: 26px;
-  width: 1492px;
-}
-
-.x1920 .mask-group-6-87UENy video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x1920 .mask-group-6-87UENy img {
-  object-fit: cover;
-}
-
-.x1920 .stack-example-8yP70N {
-  background-color: transparent;
-  height: 835px;
-  left: -0px;
-  object-fit: cover;
-  position: absolute;
-  top: -125px;
-  width: 1484px;
+  width: 1507px;
 }
 
 .x1920 .stack-over-flow-IcSf21 {
@@ -12463,7 +12341,7 @@ transform: translate(0,0);
   top: 958px;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 442px;
+  width: 432px;
 }
 
 .x1920 .i-am-a-biochemista-d-S15x6e:hover {
@@ -14406,9 +14284,20 @@ transform: translate(0,0);
   background-color: transparent;
   height: 68.07%;
   left: 0px;
+  overflow: hidden;
   position: absolute;
   top: 31.93%;
   width: 100%;
+}
+
+.x320 .dashboard_example-CxfdtT video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x320 .dashboard_example-CxfdtT img {
+  object-fit: cover;
 }
 
 .x320 .path-53-tY5Qkn {
@@ -14419,36 +14308,6 @@ transform: translate(0,0);
   position: absolute;
   top: 0px;
   width: 285px;
-}
-
-.x320 .mask-group-6-tY5Qkn {
-  background-color: transparent;
-  height: 103px;
-  left: 13px;
-  overflow: hidden;
-  position: absolute;
-  top: 9px;
-  width: 259px;
-}
-
-.x320 .mask-group-6-tY5Qkn video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x320 .mask-group-6-tY5Qkn img {
-  object-fit: cover;
-}
-
-.x320 .stack-example-glruij {
-  background-color: transparent;
-  height: 146px;
-  left: -1px;
-  object-fit: cover;
-  position: absolute;
-  top: -21px;
-  width: 260px;
 }
 
 .x320 .stack-over-flow-CxfdtT {
@@ -15396,7 +15255,7 @@ transform: translate(0,0);
   opacity: 0;
   position: absolute;
   top: 584px;
-  width: calc(100.00% - 12px);
+  width: calc(100.00% - 18px);
 }
 
 .x320 .iam-joe-6lzJea.bp1-animate-enter29 {
@@ -15418,7 +15277,7 @@ to{opacity: 1;
   height: 256px;
   opacity: 0;
   position: absolute;
-  right: 26px;
+  right: 20px;
   top: 0px;
   transform: translate(-25px, 0);
   width: 282px;
@@ -15479,7 +15338,7 @@ to{opacity: 1;
   height: 136px;
   opacity: 0;
   position: absolute;
-  right: 9px;
+  right: 3px;
   top: calc(30.56% - 42px);
   transform: translate(25px, 0);
   width: 195px;
@@ -15547,7 +15406,7 @@ transform: translate(0,0);
   position: absolute;
   top: calc(43.02% - 80px);
   transform: translate(25px, 0);
-  width: calc(100.00% - 64px);
+  width: calc(100.00% - 58px);
 }
 
 .x320 .component-8-1-drx2KV.bp1-animate-enter28 {
@@ -15621,7 +15480,7 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 268px;
+  width: 262px;
 }
 
 .x320 .i-am-a-biochemista-d-drx2KV:hover {
@@ -17619,20 +17478,31 @@ transform: translate(0,0);
 
 .x400 .stack-over-f-JxXJvo {
   background-color: transparent;
-  height: 190px;
+  height: 177px;
   left: 18px;
   position: absolute;
-  top: calc(44.60% - 85px);
+  top: calc(44.56% - 79px);
   width: calc(100.00% - 35px);
 }
 
 .x400 .dashboard_example-RAqi27 {
   background-color: transparent;
-  height: 70.40%;
+  height: 68.07%;
   left: 0px;
+  overflow: hidden;
   position: absolute;
-  top: 29.60%;
+  top: 31.93%;
   width: 100%;
+}
+
+.x400 .dashboard_example-RAqi27 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x400 .dashboard_example-RAqi27 img {
+  object-fit: cover;
 }
 
 .x400 .path-53-CZMrli {
@@ -17643,36 +17513,6 @@ transform: translate(0,0);
   position: absolute;
   top: 0px;
   width: 365px;
-}
-
-.x400 .mask-group-6-CZMrli {
-  background-color: transparent;
-  height: 133px;
-  left: 8px;
-  overflow: hidden;
-  position: absolute;
-  top: 0px;
-  width: 349px;
-}
-
-.x400 .mask-group-6-CZMrli video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x400 .mask-group-6-CZMrli img {
-  object-fit: cover;
-}
-
-.x400 .stack-example-7SlXfW {
-  background-color: transparent;
-  height: 196px;
-  left: -0px;
-  object-fit: cover;
-  position: absolute;
-  top: -32px;
-  width: 349px;
 }
 
 .x400 .stack-over-flow-RAqi27 {
@@ -18845,7 +18685,7 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 268px;
+  width: 262px;
 }
 
 .x400 .i-am-a-biochemista-d-wcAjYZ:hover {
@@ -20841,9 +20681,20 @@ transform: translate(0,0);
   background-color: transparent;
   height: 74.13%;
   left: 0px;
+  overflow: hidden;
   position: absolute;
   top: 25.87%;
   width: 100%;
+}
+
+.x700 .dashboard_example-eXKWbZ video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.x700 .dashboard_example-eXKWbZ img {
+  object-fit: cover;
 }
 
 .x700 .path-53-h7gjh4 {
@@ -20854,36 +20705,6 @@ transform: translate(0,0);
   position: absolute;
   top: 0px;
   width: 663px;
-}
-
-.x700 .mask-group-6-h7gjh4 {
-  background-color: transparent;
-  height: 263px;
-  left: 20px;
-  overflow: hidden;
-  position: absolute;
-  top: 10px;
-  width: 623px;
-}
-
-.x700 .mask-group-6-h7gjh4 video {
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
-}
-
-.x700 .mask-group-6-h7gjh4 img {
-  object-fit: cover;
-}
-
-.x700 .stack-example-hVx4ly {
-  background-color: transparent;
-  height: 374px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: -58px;
-  width: 665px;
 }
 
 .x700 .stack-over-flow-eXKWbZ {
@@ -21920,7 +21741,7 @@ transform: translate(0,0);
   text-align: left;
   transition: all 0.2s ease;
   white-space: nowrap;
-  width: 442px;
+  width: 432px;
 }
 
 .x700 .i-am-a-biochemista-d-BFGG8W:hover {
