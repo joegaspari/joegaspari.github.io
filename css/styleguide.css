@@ -271,30 +271,14 @@
   font-weight: 400;
 }
 
-.border-4px-pearl-lusta {
-  border: 4px solid var(--pearl-lusta);
-}
-
-.border-4px-prim {
-  border: 4px solid var(--prim);
-}
-
 .border-25px-link-water {
   border: 25px solid var(--link-water);
-}
-
-.border-4px-wheat {
-  border: 4px solid var(--wheat);
-}
-
-.border-3px-prim {
-  border: 3px solid var(--prim);
 }
 
 .border-25px-swans-down {
   border: 25px solid var(--swans-down);
 }
 
-.border-4px-piggy-pink {
-  border: 4px solid var(--piggy-pink);
+.border-4px-prim {
+  border: 4px solid var(--prim);
 }
